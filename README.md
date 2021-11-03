@@ -29,7 +29,6 @@ It's one of the projects from [Angela's Python Bootcamp](https://www.udemy.com/c
 
 ![Code sample](./Screenshots/data_3.png)
 
-![Code sample](./Screenshots/data_4.png)
 
 ## Technologies
 * Python 3.8
